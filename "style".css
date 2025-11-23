@@ -1,61 +1,62 @@
-/*style.css*/
+/* style.css */
 
-
-body{
-	font-family: Arial, Hevetica, sans-serif;
-	margin: 0;
-	padding: 0;
-	background-color: #f4f4f4;
-	color: #333;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
 }
 
-header{
-	background-color: #222;
-	color: #fff;
-`	padding: 20px;
-	text-align: center;
+header {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
 }
 
-nav{
-	background-color: #444;
-`	padding: 20px;
-	text-align: center;
+nav {
+  background-color: #444;
+  padding: 10px;
+  text-align: center;
 }
 
-nav a{
-	color: #fff;
-	text-decoration: none;
-	margin: 0 15px;
-	font-weight: bold;
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
 }
 
-nav a:hover{
-	text-decoration: underline;
+nav a:hover {
+  text-decoration: underline;
 }
 
-main{
-	max-width: 800px;
-	margin: 20px auto;
-	background-color: #fff;
-	padding: 20px;
-	box-shadow: 0 0 5px rgba(0,0,0,0.1);
-	border-radius: 4px;
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  border-radius: 4px;
 }
 
-h1, h2, h3{
-	color: #222;
+h1, h2, h3 {
+  color: #222;
 }
 
-ul{
-	list-style-type: square;
-	padding-left: 20px;
+ul {
+  list-style-type: square;
+  padding-left: 20px;
 }
 
-footer{
-	text-align: center;
-	font-size: 0.9em;
-	color: #666;
-	padding: 10px 0 20px 0;
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  padding: 10px 0 20px 0;
+}
+
 }
 
 
