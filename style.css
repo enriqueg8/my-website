@@ -59,7 +59,7 @@ footer {
   padding: 10px 0 20px 0;
 }
 
-/* Image styling */
+/* Image styling for university page */
 .campus-image,
 .club-image {
   max-width: 100%;
@@ -69,6 +69,32 @@ footer {
   margin: 15px auto;
   box-shadow: 0 0 5px rgba(0,0,0,0.15);
 }
+
+/* Profile image container & images for index.html */
+.profile-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin: 15px 0 5px 0;
+}
+
+.profile-image {
+  max-width: 180px;
+  width: 45%;
+  height: 180px;
+  border-radius: 50%;
+  box-shadow: 0 0 8px rgba(0,0,0,0.25);
+  object-fit: cover;
+}
+
+/* Optional caption under the photos */
+.profile-caption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #555;
+}
+
 
 
 
